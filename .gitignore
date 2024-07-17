@@ -1,0 +1,10 @@
+node_modules
+cache
+temp
+*.log
+*.tgz
+
+.DS_Store
+.idea
+.temp
+.vscode
